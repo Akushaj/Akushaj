@@ -21,8 +21,13 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akushaj&" alt="akushaj" /></p>
 
+<p align ="center">
+    <img src="jjk.gif" width="500" />
+</p>
+
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aukshaj/Aukshaj/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aukshaj/Aukshaj/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Aukshaj/Aukshaj/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Akushaj/Akushaj/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Akushaj/Akushaj/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Akushaj/Akushaj/output/github-snake.svg" />
 </picture>
