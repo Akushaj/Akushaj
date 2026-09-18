@@ -5,10 +5,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20👋,%20I'm%20Akshaj&fontSize=40&animation=fadeIn" alt="header banner" />
 </p>
 
-###
-=======
->>>>>>> 32b2db175373efc6c69467f58a94fec6c5be11f7
-<h1 align="center">Hi 👋, I'm Akshaj</h1>
 <h3 align="center">A passionate Game Dev</h3>
 
 - 🔭 I’m currently working on **2D Platformer**
