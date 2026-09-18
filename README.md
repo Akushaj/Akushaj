@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=A+passionate+Game+Dev;2D+Platformer+Creator;Unity+%26+C%23+Enthusiast" alt="Typing SVG" />
 </p>
 
-- 🔭 I’m currently working on **2D Platformer**
+- 🔭 I’m currently working on a **2D Platformer**
 
 - 🌱 I’m currently learning **Unity and C#**
 
