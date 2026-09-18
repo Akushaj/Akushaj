@@ -1,5 +1,9 @@
 ![Header](./github-header-banner.png)
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20👋,%20I'm%20Akshaj&fontSize=40&animation=fadeIn" alt="header banner" />
+</p>
+
 ###
 <h1 align="center">Hi 👋, I'm Akshaj</h1>
 <h3 align="center">A passionate Game Dev</h3>
