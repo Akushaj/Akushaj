@@ -1,11 +1,12 @@
 ![Header](./github-header-banner.png)
 
-<<<<<<< HEAD
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20👋,%20I'm%20Akshaj&fontSize=40&animation=fadeIn" alt="header banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=%20👋%20I'm%20Akshaj%20Kapri&fontSize=40&animation=fadeIn" alt="header banner" />
 </p>
 
-<h3 align="center">A passionate Game Dev</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=A+passionate+Game+Dev;2D+Platformer+Creator;Unity+%26+C%23+Enthusiast" alt="Typing SVG" />
+</p>
 
 - 🔭 I’m currently working on **2D Platformer**
 
